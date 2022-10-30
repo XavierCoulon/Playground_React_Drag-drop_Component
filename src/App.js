@@ -1,5 +1,9 @@
+import DragDropFile from "./components/DragDropFile";
+
 function App() {
-  return <div></div>;
+  return <div>
+    <DragDropFile />
+  </div>;
 }
 
 export default App;
